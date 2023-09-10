@@ -416,7 +416,7 @@
     .tablet {
         display: block; /* Show tablet content on tablet view */
     }
-    .rectangle21 {
+    .rectangle21-tab {
         position: absolute;
         top: 82.63rem;
         left: 0;
@@ -424,7 +424,7 @@
         width: 48rem;
         height: 40rem;
       }
-      .group-icon {
+      .landscape-tab {
         position: absolute;
         top: 0;
         left: 25.5rem;
@@ -432,7 +432,7 @@
         height: 30.13rem;
         object-fit: cover;
       }
-      .rectangle22 {
+      .rectangle13-tab {
         position: absolute;
         height: 100%;
         width: 100%;
@@ -443,14 +443,14 @@
         border-radius: var(--br-7xs);
         background-color: var(--dark-blue);
       }
-      .request-beta-access8 {
+      .request-2-tab {
         position: absolute;
         top: calc(50% - 15.5px);
         left: 12.5%;
         letter-spacing: -0.18px;
         line-height: 2rem;
       }
-      .group11 {
+      .beta-tab {
         position: absolute;
         top: 18.31rem;
         left: 0.03rem;
@@ -458,7 +458,7 @@
         height: 3.81rem;
         overflow: hidden;
       }
-      .our-marketing-and2 {
+      .marketing-tab {
         position: absolute;
         top: 10.56rem;
         left: 0;
@@ -472,14 +472,14 @@
       .a {
         font-family: var(--heading-s);
       }
-      .a-super-solution {
+      .solution-tab {
         margin-block-start: 0;
         margin-block-end: 1px;
       }
-      .for-your-business {
+      .business-tab {
         margin: 0;
       }
-      .a-super-solution-container2 {
+      .parent-1-tab {
         position: absolute;
         top: 0;
         left: 0;
@@ -490,38 +490,38 @@
         display: inline-block;
         width: 35.81rem;
       }
-      .group-parent8 {
+      .parent-container {
         position: absolute;
         top: 5.5rem;
         left: 0;
         width: 35.81rem;
         height: 22.13rem;
       }
-      .group-parent7,
-      .path-2-icon4 {
+      .oval-parent-tab,
+      .curve-1-tab {
         position: absolute;
         top: 2.81rem;
         left: 13.91rem;
         width: 14.51rem;
         height: 1.81rem;
       }
-      .group-parent7 {
+      .oval-parent-tab {
         top: 11rem;
         left: 2.44rem;
         width: 43.06rem;
         height: 30.13rem;
       }
-      .rectangle23,
-      .suite4 {
+      .rectangle-tab,
+      .suite-icon-t {
         position: absolute;
         left: 0;
       }
-      .suite4 {
+      .suite-icon-t {
         top: calc(50% - 16px);
         letter-spacing: -0.44px;
         line-height: 2rem;
       }
-      .rectangle23 {
+      .rectangle-tab {
         height: 100%;
         width: 100%;
         top: 0;
@@ -531,19 +531,19 @@
         border: 1px solid var(--dark-blue);
         box-sizing: border-box;
       }
-      .request-beta-access9 {
+      .Request-t {
         position: absolute;
         top: calc(50% - 16px);
         left: 10.73%;
         letter-spacing: -0.16px;
         line-height: 2rem;
       }
-      .group12,
-      .rectangle-parent5 {
+      .header-t,
+      .rectangle-t {
         position: absolute;
         overflow: hidden;
       }
-      .rectangle-parent5 {
+      .rectangle-t {
         height: 100%;
         width: 31.79%;
         top: 0;
@@ -552,7 +552,7 @@
         left: 68.21%;
         font-size: var(--heading-s-size);
       }
-      .group12 {
+      .header-t {
         top: 2.5rem;
         left: 2.44rem;
         width: 43.06rem;
@@ -560,43 +560,43 @@
         font-size: var(--font-size-13xl);
         color: var(--dark-blue);
       }
-      .companies2,
-      .k2 {
+      .companies-tab,
+      .k-tab {
         position: absolute;
         left: 0;
         display: inline-block;
         width: 13.94rem;
       }
-      .k2 {
+      .k-tab {
         top: 0;
         line-height: 3.5rem;
       }
-      .companies2 {
+      .companies-tab {
         top: 3.56rem;
         font-size: var(--heading-s-size);
         letter-spacing: 2.5px;
         line-height: 1.63rem;
         color: var(--grey);
       }
-      .group-2-copy-22,
-      .group-2-copy9,
-      .k-container {
+      .number-2-tab,
+      .number-1-tab,
+      .numbers-tab {
         position: absolute;
         top: 0;
         width: 13.94rem;
         height: 5.19rem;
       }
-      .k-container {
+      .numbers-tab {
         left: 0;
       }
-      .group-2-copy-22,
-      .group-2-copy9 {
+      .number-2-tab,
+      .number-1-tab {
         left: 14.56rem;
       }
       .group-2-copy-22 {
         left: 29.13rem;
       }
-      .group-parent9 {
+      .parent-2-tab {
         position: absolute;
         top: 46.63rem;
         left: 2.44rem;
@@ -606,24 +606,24 @@
         font-size: var(--font-size-29xl);
         color: var(--dark-blue);
       }
-      .group-icon1,
-      .rectangle-copy2 {
+      .image-jeremy-tab,
+      .rectangle-copy-tab {
         position: absolute;
         left: 0;
         width: 43.06rem;
       }
-      .rectangle-copy2 {
+      .rectangle-copy-tab {
         top: 11.31rem;
         border-radius: var(--br-mini);
         background-color: var(--dark-blue);
         height: 42.75rem;
       }
-      .group-icon1 {
+      .image-jeremy-tab {
         top: 0;
         height: 25.13rem;
         object-fit: cover;
       }
-      .i-really-like2 {
+      .solution-2-tab {
         position: absolute;
         width: 100%;
         top: 31.21%;
@@ -633,14 +633,14 @@
         color: var(--cream);
         display: inline-block;
       }
-      .jeremy-robinson2 {
+      .jeremy-rob-tab {
         position: absolute;
         top: calc(50% - 29px);
         left: 6.84%;
         letter-spacing: -0.18px;
         line-height: 2rem;
       }
-      .cmo-fylo2 {
+      .cmo-tab {
         position: absolute;
         width: 100%;
         top: 55.17%;
@@ -651,7 +651,7 @@
         color: var(--cream);
         display: inline-block;
       }
-      .jeremy-robinson-parent {
+      .jeremy-tab {
         position: absolute;
         height: 20.57%;
         width: 33.16%;
@@ -661,7 +661,7 @@
         left: 33.51%;
         overflow: hidden;
       }
-      .it-just-works-container2 {
+      .works-tab {
         position: absolute;
         width: 100%;
         top: calc(50% - 141px);
@@ -671,7 +671,7 @@
         line-height: 3rem;
         display: inline-block;
       }
-      .i-really-like-how-i-container {
+      .text-tab {
         position: absolute;
         top: 32.44rem;
         left: 3.63rem;
@@ -679,14 +679,14 @@
         height: 17.63rem;
         overflow: hidden;
       }
-      .path-2-icon5 {
+      .curve-2-tab {
         position: absolute;
         top: 27.62rem;
         left: 19.99rem;
         width: 3.15rem;
         height: 2.57rem;
       }
-      .rectangle-copy-parent {
+      .rectangle-2-tab {
         position: absolute;
         top: 57.56rem;
         left: 2.44rem;
@@ -694,14 +694,14 @@
         height: 54.06rem;
         text-align: center;
       }
-      .copyright-suite2 {
+      .copyright-tab {
         position: absolute;
         top: calc(50% - 16px);
         left: 41.07%;
         letter-spacing: 0.08px;
         line-height: 2rem;
       }
-      .frame-inner {
+      .social-media-tab {
         position: absolute;
         height: 62.5%;
         width: 16.84%;
@@ -713,7 +713,7 @@
         overflow: hidden;
         max-height: 100%;
       }
-      .suite5 {
+      .suite-icon-2-tab {
         position: absolute;
         top: calc(50% - 16px);
         left: 0;
@@ -722,7 +722,7 @@
         line-height: 2rem;
         color: var(--dark-blue);
       }
-      .copyright-suite-container {
+      .footer-tab {
         position: absolute;
         top: 116.13rem;
         left: 2.44rem;
