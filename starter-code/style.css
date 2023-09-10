@@ -756,7 +756,7 @@
         display: block; 
     }
     /* Show mobile content on mobile view */
-.rectangle24 {
+.rectangle-mobile {
   position: absolute;
   top: 123.06rem;
   left: 0;
@@ -764,7 +764,7 @@
   width: 23.56rem;
   height: 26.25rem;
 }
-.rectangle25 {
+.rectangle-mob {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -776,14 +776,14 @@
   border: 1px solid var(--dark-blue);
   box-sizing: border-box;
 }
-.request-beta-access10 {
+.Request-mobile {
   position: absolute;
   top: calc(50% - 12px);
   left: 8.52%;
   letter-spacing: -0.14px;
   line-height: 1.5rem;
 }
-.group13 {
+.rectangle-m {
   position: absolute;
   height: 100%;
   width: 53.06%;
@@ -793,7 +793,7 @@
   left: 46.94%;
   overflow: hidden;
 }
-.suite6 {
+.suite-icon-m {
   position: absolute;
   top: calc(50% - 16px);
   left: 0;
@@ -801,7 +801,7 @@
   letter-spacing: -0.44px;
   line-height: 2rem;
 }
-.group-parent10 {
+.header-mobile {
   position: absolute;
   top: 1.5rem;
   left: 1rem;
@@ -811,7 +811,7 @@
   text-align: left;
   font-size: 0.88rem;
 }
-.rectangle26 {
+.rectangle13-mobile {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -822,14 +822,14 @@
   border-radius: var(--br-7xs);
   background-color: var(--dark-blue);
 }
-.request-beta-access11 {
+.request-2-mobile {
   position: absolute;
   top: calc(50% - 15.5px);
   left: 12.5%;
   letter-spacing: -0.18px;
   line-height: 2rem;
 }
-.group14 {
+.beta-mobile {
   position: absolute;
   top: 16.52rem;
   left: 0;
@@ -837,7 +837,7 @@
   height: 3.81rem;
   overflow: hidden;
 }
-.our-marketing-and3 {
+.marketing-mobile {
   position: absolute;
   top: 9.27rem;
   left: 0.03rem;
@@ -848,17 +848,17 @@
   display: inline-block;
   width: 21.44rem;
 }
-.a1 {
+.a-mob {
   font-family: var(--heading-s);
 }
-.a-super-solution1 {
+.solution-mobile {
   margin-block-start: 0;
   margin-block-end: 1px;
 }
-.for-your-business1 {
+.business-mob {
   margin: 0;
 }
-.a-super-solution-container3 {
+.parent-container-mobile {
   position: absolute;
   top: 1.71rem;
   left: 0.03rem;
@@ -869,15 +869,15 @@
   display: inline-block;
   width: 21.44rem;
 }
-.group-parent11,
-.path-2-icon6 {
+.oval-parent-mobile,
+.curve-1-mobile {
   position: absolute;
   top: 0.07rem;
   left: 9.63rem;
   width: 9.52rem;
   height: 1.19rem;
 }
-.group-parent11 {
+.oval-parent-mobile {
   top: 8rem;
   left: 0.97rem;
   width: 21.47rem;
@@ -885,54 +885,54 @@
   text-align: left;
   color: var(--cream-white);
 }
-.companies3,
-.group-icon2,
-.k3 {
+.companies-mob,
+.portrait-mobile,
+.k-mob {
   position: absolute;
   width: 21.44rem;
 }
-.group-icon2 {
+.portrait-mobile {
   top: 31.81rem;
   left: 1rem;
   height: 15rem;
   object-fit: cover;
 }
-.companies3,
-.k3 {
+.companies-mob,
+.k-mob {
   left: 0;
   display: inline-block;
 }
-.k3 {
+.k-mob {
   top: 0;
   line-height: 3.5rem;
 }
-.companies3 {
+.companies-mob {
   top: 3.56rem;
   font-size: var(--heading-s-size);
   letter-spacing: 2.5px;
   line-height: 1.63rem;
   color: var(--grey);
 }
-.k-parent1 {
+.numbers-mob {
   top: 0;
   left: 0;
 }
-.group-2-copy-23,
-.group-2-copy10,
-.k-parent1 {
+.number-2-mob,
+.number-1-mob,
+.numbers-mob {
   position: absolute;
   width: 21.44rem;
   height: 5.19rem;
 }
-.group-2-copy10 {
+.number-1-mob {
   top: 7.19rem;
   left: 0.06rem;
 }
-.group-2-copy-23 {
+.number-2-mob {
   top: 14.38rem;
   left: 0;
 }
-.group-parent12 {
+.parent-2-mob {
   position: absolute;
   top: 50.31rem;
   left: 0.94rem;
@@ -940,7 +940,7 @@
   height: 19.56rem;
   font-size: var(--font-size-29xl);
 }
-.rectangle-copy3 {
+.rectangle-copy-mob {
   position: absolute;
   height: 80.52%;
   width: 65.45%;
@@ -952,7 +952,7 @@
   background-color: var(--dark-blue);
 }
 .group-icon3,
-.i-really-like3 {
+.solution-2-mob {
   position: absolute;
   width: 59.86%;
   left: 20.07%;
@@ -967,21 +967,21 @@
   max-height: 100%;
   object-fit: cover;
 }
-.i-really-like3 {
+.solution-2-mob {
   top: 65.34%;
   letter-spacing: 0.09px;
   line-height: 2rem;
   color: var(--cream);
   display: inline-block;
 }
-.jeremy-robinson3 {
+.jeremy-rob-mob {
   position: absolute;
   top: calc(50% - 29px);
   left: 6.84%;
   letter-spacing: -0.18px;
   line-height: 2rem;
 }
-.cmo-fylo3 {
+.cmo-mob {
   position: absolute;
   width: 100%;
   top: 55.17%;
@@ -992,7 +992,7 @@
   color: var(--cream);
   display: inline-block;
 }
-.jeremy-robinson-group {
+.jeremy-mob {
   position: absolute;
   height: 6.24%;
   width: 33.16%;
@@ -1002,7 +1002,7 @@
   left: 33.51%;
   overflow: hidden;
 }
-.it-just-works-container3 {
+.works-mob {
   position: absolute;
   width: 100%;
   top: calc(50% + 54.5px);
@@ -1024,7 +1024,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.rectangle-copy-group {
+.rectangle-2-mob {
   position: absolute;
   top: 73.38rem;
   left: -6.19rem;
