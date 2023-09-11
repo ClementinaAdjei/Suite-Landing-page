@@ -951,13 +951,13 @@
   border-radius: var(--br-mini);
   background-color: var(--dark-blue);
 }
-.group-icon3,
+.image-jeremy-mob,
 .solution-2-mob {
   position: absolute;
   width: 59.86%;
   left: 20.07%;
 }
-.group-icon3 {
+.image-jeremy-mob {
   height: 43.27%;
   top: 0;
   right: 20.07%;
@@ -1012,7 +1012,7 @@
   line-height: 3rem;
   display: inline-block;
 }
-.path-2-icon7 {
+.curve-2-mob {
   position: absolute;
   height: 4.43%;
   width: 8.8%;
@@ -1033,15 +1033,15 @@
   overflow: hidden;
   color: var(--cream-white);
 }
-.copyright-suite3,
-.suite7 {
+.copyright-mob,
+.suite-icon-2-mob {
   position: absolute;
   top: calc(50% - 10px);
   left: 0;
   letter-spacing: 0.08px;
   line-height: 2rem;
 }
-.suite7 {
+.suite-icon-2-mob {
   top: calc(50% - 75px);
   left: 18%;
   font-size: var(--font-size-13xl);
@@ -1049,7 +1049,7 @@
   color: var(--dark-blue);
   text-align: left;
 }
-.frame-child1 {
+.social-media-mob {
   position: absolute;
   height: 13.33%;
   width: 92.8%;
@@ -1061,7 +1061,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.copyright-suite-parent1 {
+.footer-mob {
   position: absolute;
   top: 134.94rem;
   left: 7.78rem;
